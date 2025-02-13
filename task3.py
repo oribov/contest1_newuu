@@ -29,9 +29,3 @@ def funx(n=2, m=5):
         if i > max_val:
             max_val = i
 
-if __name__ == "__main__":
-    func()
-    funx()
-    func()
-    funx()
-    func()
